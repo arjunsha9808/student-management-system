@@ -8,9 +8,6 @@ A Java Spring Boot based *Student Management System* that provides REST APIs to 
 
 Java Backend Developer | Spring Boot | MySQL
 
-- GitHub: https://github.com/arjunsha9808
-- LinkedIn: https://linkedin.com/in/arjun-sharma-942b483b6
-
 ## 🚀 Features
 
 - Add a new student
